@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "lexirosev16",
+    "is_private": false,
+    "title": "Latin American and Iberian Art Songs and Arias",
+    "description": "Educational use.",
+    "language": "en",
+    "slug": "LAIASA",
+    "creator": "lexirosev16",
+    "authors": "Alexis R. Velazquez",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-02-08T18:46:15.180Z",
+    "updated_at": "2026-02-08T18:46:15.180Z"
   }
 }
