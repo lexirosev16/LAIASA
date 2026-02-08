@@ -1,5 +1,62 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Comprendo\" Daniel Catan Letras"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comprendo que tus ojos jamas de ser mios. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comprendo que tus ojos no me he de ver jamas"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y te amo en mis cos y ardientes de varios, bendigo desdenes, adoro tus vios"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y te amo en mis locos y ardientes desvarios"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "bendigo de tus dedesnes adoro tus vios"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "849a1f35-3e7f-4cc9-88a1-f9b7cd0c9577"
+    }
+  ],
   "set": "Default",
   "event_id": "d7c56dec-0b17-4e21-aa93-f5314252d437",
   "source_id": "55fee764-0622-474f-9db8-28cc73b7b14d"
