@@ -1,5 +1,30 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I understand that your kisses will never be mine.\nI understand that your eyes will never look upon me again.\nAnd I love you in my mad and ardent delusions;\nI bless your scorn, I adore your waywardness.\nAnd I love you in my mad and ardent delusions;\nI bless your scorn, I adore your waywardness.\nAnd instead of ceasing to love you,\nI, instead…\nLove you so much more."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7f8f706b-7398-43a4-acd1-ede9d3173683"
+    }
+  ],
   "event_id": "d7c56dec-0b17-4e21-aa93-f5314252d437",
   "set": "Comprendo_EN",
   "source_id": "55fee764-0622-474f-9db8-28cc73b7b14d"
