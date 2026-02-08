@@ -1,5 +1,74 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Escuchame\" -",
+              "bold": true
+            },
+            {
+              "text": " Daniel Catan "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en la vida o la muerte. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "si no escucharas, no sonaria mi canto "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y siento palpitar en las alas de cada maiposa "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en cada brillo verde . el viento o el agua, en el fonod de la selva."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en la vida o la muerte te siento palpitar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en el"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "682c54bc-f806-45e0-986b-a1bdf2d84c42"
+    }
+  ],
   "set": "Default",
   "event_id": "d7c56dec-0b17-4e21-aa93-f5314252d437",
   "source_id": "c32f1bdd-4779-49fe-9305-930315b8b256"
