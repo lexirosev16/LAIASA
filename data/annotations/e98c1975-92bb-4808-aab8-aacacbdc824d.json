@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Siboney, I love you;\nI am dying for your love.\nSiboney, on your lips\nhoney placed its sweetness.\nCome here, for I love you,\nand you are every treasure to me.\nSiboney, to the lull of your soul I think of you.\nSiboney of my dreams, if you do not hear\nthe lament of my voice,\nSiboney, if you do not come, I will die of love.\nSiboney of my dreams, I wait for you\nwith longing in my caney;\nSiboney, if you do not come, I will die of love.\nHear the echo of my crystal song\nit does not vanish in the rough wilderness."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9aea19c5-a854-4e72-b7a2-fdd9d0711701"
+    }
+  ],
   "event_id": "d7c56dec-0b17-4e21-aa93-f5314252d437",
   "set": "Siboney_EN",
   "source_id": "6c7f4f47-d018-4072-ae99-825a49f0a69c"
