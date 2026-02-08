@@ -1,5 +1,110 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where are you, Cristóbal?\nCome here to let me ask you again…\nIn a rush, once more, the voice returns."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why do you sit so near?\nCristóbal… Cristóbal…\nI feel you close."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Listen to me, listen to me!\nMy voice flies toward you like a bird\nthat descends over the world’s love."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In you my song was born, in your hands.\nYou who dream and awaken… and awaken."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Butterflies arrived; I know you are listening to me,\nbecause my song takes flight.\nIf you did not hear my voice, it would not fly."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In you my song is born; for you I could cross\nthe tumultuous river of the days\nor the serene river of the nights."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there, on the other shore,\nto stop and listen to its own love of water,\nof one in love."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know you hear me, in life or in death.\nIf you did not hear it, my song would not sound."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel you beating in the wings of every butterfly,\nin every green shimmer,\nin the wind or the water,\nin the depths of the jungle."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In life or in death, I feel you beating.\nIn the flight of my song, in the gentle air,\nI feel you in the air."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cristóbal, Cristóbal!\nI feel you beating in the gentle air of my song.\nI feel you in the air… I feel you, Cristóbal.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4d28cd3d-8a80-4e0f-b22f-e561a316a5c4"
+    }
+  ],
   "event_id": "d7c56dec-0b17-4e21-aa93-f5314252d437",
   "set": "Escuchame_EN",
   "source_id": "c32f1bdd-4779-49fe-9305-930315b8b256"
