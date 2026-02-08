@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "lexirosev16",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236460207?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "lexirosev16",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-02-08T18:46:15.180Z",
-    "updated_at": "2026-02-08T18:46:15.180Z"
-  }
+    "updated_at": "2026-02-08T18:46:15.180Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "d59e84a8-cd83-48da-a63d-2857ab4bdac0": {
+      "content": [],
+      "created_at": "2026-02-08T18:46:15.207Z",
+      "created_by": "lexirosev16",
+      "title": "Latin American and Iberian Art Songs and Arias",
+      "updated_at": "2026-02-08T18:46:15.207Z",
+      "updated_by": "lexirosev16",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "d59e84a8-cd83-48da-a63d-2857ab4bdac0"
+  ]
 }
