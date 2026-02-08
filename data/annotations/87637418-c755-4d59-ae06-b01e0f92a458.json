@@ -1,5 +1,26 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Siboney\" ",
+              "bold": true
+            },
+            {
+              "text": "- Ernesto Lecuona \nSiboney yo te quiero\nyo me muero por tu amor.\nSiboney, en tu boca\nla miel puso su dulzor.\nVen aquí que te quiero\ny que todo tesoro eres tú para mí.\nSiboney al arrullo de tu alma pienso en ti.\nSiboney de mi sueño si no oyes\nla queja de mi voz,\nSiboney si no vienes me moriré de amor.\nSiboney de mi sueño te espero\ncon ansia en mi caney,\nSiboney si no vienes me moriré de amor.\nOye el eco de mi canto de cristal\nno se pierde por el rudo manigual"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3ca7e4f3-2fca-4e35-b1a6-03d6d13c8123"
+    }
+  ],
   "set": "Default",
   "event_id": "d7c56dec-0b17-4e21-aa93-f5314252d437",
   "source_id": "6c7f4f47-d018-4072-ae99-825a49f0a69c"
