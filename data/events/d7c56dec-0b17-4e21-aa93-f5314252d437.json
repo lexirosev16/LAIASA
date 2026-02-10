@@ -39,6 +39,16 @@
       "caption_set": [],
       "set_sort": [],
       "duration_overridden": true
+    },
+    "cebbc5f6-c457-4dd0-88bc-adfb00018c6b": {
+      "label": "\"Ella\" - Narciso Figueroa",
+      "is_offline": false,
+      "file_url": "https://youtu.be/F0J9Z5o3BfY?si=DRpLXN3vTo4k4Fqj",
+      "duration": 205,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Audio",
+      "duration_overridden": true
     }
   },
   "auto_generate_web_page": true,
@@ -58,10 +68,11 @@
     "55fee764-0622-474f-9db8-28cc73b7b14d",
     "c32f1bdd-4779-49fe-9305-930315b8b256",
     "6c7f4f47-d018-4072-ae99-825a49f0a69c",
-    "426fd255-4603-4a90-b663-c655a70a6e54"
+    "426fd255-4603-4a90-b663-c655a70a6e54",
+    "cebbc5f6-c457-4dd0-88bc-adfb00018c6b"
   ],
   "created_at": "2026-02-08T18:53:46.356Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-02-08T19:11:31.452Z",
+  "updated_at": "2026-02-10T00:25:32.572Z",
   "updated_by": "lexirosev16"
 }
