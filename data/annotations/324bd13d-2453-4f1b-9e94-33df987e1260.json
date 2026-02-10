@@ -1,5 +1,38 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Seguidilla murciana\"",
+              "bold": true
+            },
+            {
+              "text": " - Manuel de Falla "
+            },
+            {
+              "text": "Siete Canciones Espanoles",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cualquiera que el tejado\nTenga de vidrio,\nNo debe tirar piedras\nAl del vecino.\nArrieros semos;\n¡Puede que en el camino\nNos encontremos!\n\nPor tu mucha inconstancia\nYo te comparo\nCon peseta que corre\nDe mano en mano;\nQue al fin se borra,\nY creyéndola falsa\n¡Nadie la toma!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "211ea101-7455-488c-8f8f-2696df0efea6"
+    }
+  ],
   "set": "Default",
   "event_id": "03bc8cc1-2758-481c-8b22-5e007f15c10e",
   "source_id": "f07184d7-44d1-4940-bbe3-8cc6449a5696"
