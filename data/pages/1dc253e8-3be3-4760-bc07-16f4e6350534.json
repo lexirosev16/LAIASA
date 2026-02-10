@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Narciso Figueroa",
   "slug": "narciso-figueroa",
-  "updated_at": "2026-02-10T21:10:01.663Z",
+  "updated_at": "2026-02-10T21:20:25.674Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "37df39fd-23ca-42cc-82b7-1adf31f8528e"
-  }
+  },
+  "parent": "66c9bb12-dc2e-4e43-9a69-796b1fe95f03"
 }
