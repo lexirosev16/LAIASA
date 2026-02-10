@@ -1,14 +1,5 @@
 {
   "audiovisual_files": {
-    "5faf58f5-5141-4fac-8dd0-379fcc7d03e2": {
-      "label": "\"Andando de noche sola\" Raymundo Torres",
-      "is_offline": false,
-      "file_type": "Audio",
-      "file_url": "https://youtu.be/itz44Dh0zkI?si=31Zk8ZP6V8Jtc0J9",
-      "duration": 0,
-      "caption_set": [],
-      "set_sort": []
-    },
     "058fc264-cfba-4dec-9af9-13dac4a72235": {
       "label": "\"Ella\"- Narciso Figueroa",
       "is_offline": false,
@@ -49,15 +40,14 @@
     }
   ],
   "citation": "",
-  "label": "Puerto Rico",
+  "label": "Narciso Figueroa",
   "av_file_order": [
-    "5faf58f5-5141-4fac-8dd0-379fcc7d03e2",
     "058fc264-cfba-4dec-9af9-13dac4a72235",
     "3a53b6ab-0366-4b46-9044-3feb5b0bd63d",
     "4ecff3fc-0856-4ad9-9c15-36a4d1ba620c"
   ],
   "created_at": "2026-02-10T21:10:01.253Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-02-10T21:12:53.007Z",
+  "updated_at": "2026-02-10T21:19:54.401Z",
   "updated_by": "lexirosev16"
 }
