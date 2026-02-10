@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Daniel Catán",
   "slug": "daniel-catan",
-  "updated_at": "2026-02-08T18:53:46.620Z",
+  "updated_at": "2026-02-10T21:19:15.868Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "d7c56dec-0b17-4e21-aa93-f5314252d437"
-  }
+  },
+  "parent": "3b69a19c-fc65-4898-85d5-6fef4f6c4b93"
 }
