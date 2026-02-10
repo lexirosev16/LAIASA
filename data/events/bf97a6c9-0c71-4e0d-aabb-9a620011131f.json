@@ -1,0 +1,63 @@
+{
+  "audiovisual_files": {
+    "bd367447-41e8-4cc8-9846-eba41f0d9239": {
+      "label": "\"Proud Corazon\" - Germaine Franco",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/sLkDCF_EbqI?si=Z8F3OkFXkpbAim5u",
+      "duration": 124,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Proud Corazon\" ",
+          "bold": true
+        },
+        {
+          "text": "(2017)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Coco",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Composer: Germaine Franco"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lyricist: Adrian Molina"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Mexico",
+  "av_file_order": [
+    "bd367447-41e8-4cc8-9846-eba41f0d9239"
+  ],
+  "created_at": "2026-02-10T20:57:27.199Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-02-10T20:57:27.199Z",
+  "updated_by": "lexirosev16"
+}
