@@ -1,5 +1,134 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Murcian Seguidilla\" ",
+              "bold": true
+            },
+            {
+              "text": "- Manuel de Falla "
+            },
+            {
+              "text": "Seven Spanish Songs ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anyone who has a roof"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Made of glass,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Should not throw stones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At their neighbor's."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are muleteers;"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We might meet"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Along the way!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because of your great inconstancy I compare you"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To a coin that runs"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From hand to hand;"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which in the end wears out,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And being thought fake"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nobody accepts it!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c4d23201-99d2-4d46-8a83-166f450f61cf"
+    }
+  ],
   "event_id": "03bc8cc1-2758-481c-8b22-5e007f15c10e",
   "set": "Seguidilla_Murciana_EN",
   "source_id": "f07184d7-44d1-4940-bbe3-8cc6449a5696"
