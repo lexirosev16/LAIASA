@@ -1,5 +1,130 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Little Star\"",
+              "bold": true
+            },
+            {
+              "text": " - Manuel Ponce "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Little star from the distant sky,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that sees my pain,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that knows my suffering,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "come down and tell me if they love me a little because I cannot live without their love."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Little star from the distant sky,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that sees my pain,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that knows my suffering,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "come down and tell me if they love me a little because I cannot live without their love."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are a star, my beacon of love, you know that I will soon die. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Come down and tell me if they love me a little because I cannot live without their love."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Come down and tell me if they love me a little because I cannot live without their love."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2e22a111-2bb2-4e05-a840-c877b65213a3"
+    }
+  ],
   "event_id": "bf97a6c9-0c71-4e0d-aabb-9a620011131f",
   "set": "Estrellita_Manuel Ponce_EN",
   "source_id": "54af3700-5f10-4369-bf0c-b3c1398e0f8d"
