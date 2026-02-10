@@ -1,5 +1,146 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"She\" ",
+              "bold": true
+            },
+            {
+              "text": "- Narciso Figueroa  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the sound of her footsteps rises in the distance, my overjoyed heart leaps,  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel life pulsing through my nerves and my voice dying in my throat.  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She draws near, enchanting, and my soul rushes to my eyes  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so I might see her better,  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and my lips tremble convulsively,  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "unable to pronounce a single word.  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then the uncertain dam breaks,  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the torrent overflows, love speaks  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in that mysterious, solemn language  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "our tongues are not enough to express,  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and in her the universe gathers,  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and when I clasp her idolized hand,  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I see God gleam in her pupils  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and fall to my knees at her feet."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1bbee9c5-e3cd-462b-8b5c-6828e97dab4a"
+    }
+  ],
   "event_id": "d7c56dec-0b17-4e21-aa93-f5314252d437",
   "set": "Ella_Annotations_EN",
   "source_id": "cebbc5f6-c457-4dd0-88bc-adfb00018c6b"
