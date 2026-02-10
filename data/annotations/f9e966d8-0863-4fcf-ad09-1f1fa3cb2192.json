@@ -1,5 +1,122 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"El ojo de agua\" ",
+              "bold": true
+            },
+            {
+              "text": "- Narciso Figueroa "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con los rumores de su eterno coro, broja la fuente de la dura pena. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El ojo de agua que en su cuenca oscura, de un ciclo en prision derrama el lloro."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero el ojo de agua que en prision oscura, de un ciclo en prision derrama el lloro."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En tanto salta el surtidor sonora, "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por la verja que el recinto puro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tiemblo en el fondo de la linfa puro "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "el pez de rosas con estrellas de oro. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El ojo de agua que en su cuenca oscura, "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "raro prodigio culta maravilla, "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El pan de dios lo tiene todo el mundo pero el agua de dios solo aguadilla. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "edb70d50-07de-4a1b-ae64-41a03c545bc6"
+    }
+  ],
   "set": "Default",
   "event_id": "37df39fd-23ca-42cc-82b7-1adf31f8528e",
   "source_id": "4ecff3fc-0856-4ad9-9c15-36a4d1ba620c"
