@@ -1,5 +1,30 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"They Call Me the Primarosa\" ",
+              "bold": true
+            },
+            {
+              "text": "The Barber of Seville.",
+              "italic": true
+            },
+            {
+              "text": " Text by Guillermo Perrín (1857-1923) and Miguel de Palacios (1863-1920). Set by Manuel Nieto (1844-1915) and Gerónimo Giménez (1854-1923). They call me the Primarosa, the girl of their loves, for my tempting eyes and this graceful face, for my fiery lips like red carnations. Where men seek honey, turned into bees. Because I have a dark complexion which is the color of beauty, and my figure is graceful like a lily stem. Ah! Because in my soul there is a treasure, of laughter, of tears, because I enchant when I sing, and I enchant when I cry, and deceitful men call me beautiful, the girl of love… because of my tempting eyes, and this graceful face, because of my fiery lips, like red carnations. Where men seek honey, turned into bees. Because I have a dark complexion, the color of beauty, and my figure is graceful, like a lily stem. Ah! Because in my soul there is a treasure, of laughter, of tears, because I enchant when I sing, and I enchant when I cry, and deceitful men call me beautiful, the girl of love…"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ef63f0bb-c43d-450d-ba7a-fa5a9d66a4e6"
+    }
+  ],
   "event_id": "03bc8cc1-2758-481c-8b22-5e007f15c10e",
   "set": "Me llaman la primarosa_EN",
   "source_id": "e3bfb5a6-8ff3-4329-85c6-f49cff77e176"
