@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Manuel de Falla",
   "slug": "manuel-de-falla",
-  "updated_at": "2026-02-10T20:47:29.753Z",
+  "updated_at": "2026-02-10T21:21:31.361Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "03bc8cc1-2758-481c-8b22-5e007f15c10e"
-  }
+  },
+  "parent": "1623bf06-02d6-43c2-ae80-5b86a87e66be"
 }
