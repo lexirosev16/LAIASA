@@ -1,5 +1,138 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Ella\" ",
+              "bold": true
+            },
+            {
+              "text": "- Narciso Figueroa"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando suenan sus pasos a lo lejos mi corazón alborozado salta,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "siento en mis nervios palpitar la vida y la voz expirar en mi garganta."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se acerca encantadora y a mis ojos,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "para verla mejor, llega mi alma,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y mis labios se agitan convulsivos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sin poder pronunciar una palabra."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Luego se rompe el inseguro dique,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "se desborda el torrente, el amor habla"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en ese idioma misterioso y grave"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que nuestras lenguas a expresar no bastan,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y en ella se concentra el universo,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y al estrechar su mano idolatrada,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "miro a Dios fulgurar en sus pupilas"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y caigo de rodillas a sus plantas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7589be9c-e752-4df3-b285-74ed0f781443"
+    }
+  ],
   "set": "Default",
   "event_id": "d7c56dec-0b17-4e21-aa93-f5314252d437",
   "source_id": "cebbc5f6-c457-4dd0-88bc-adfb00018c6b"
