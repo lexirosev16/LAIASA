@@ -20,16 +20,6 @@
       "set_sort": [],
       "duration_overridden": true
     },
-    "6c7f4f47-d018-4072-ae99-825a49f0a69c": {
-      "label": "\"Siboney\" - Ernesto Lecuona",
-      "is_offline": false,
-      "file_type": "Audio",
-      "file_url": "https://youtu.be/_qwQl7yph4E?si=dq1kMZVpmPLT9mjx",
-      "duration": 165,
-      "caption_set": [],
-      "set_sort": [],
-      "duration_overridden": true
-    },
     "426fd255-4603-4a90-b663-c655a70a6e54": {
       "label": "\"Arcadio, Arcadio\" - Daniel Catan",
       "is_offline": false,
@@ -38,26 +28,6 @@
       "duration": 96,
       "caption_set": [],
       "set_sort": [],
-      "duration_overridden": true
-    },
-    "cebbc5f6-c457-4dd0-88bc-adfb00018c6b": {
-      "label": "\"Ella\" - Narciso Figueroa",
-      "is_offline": false,
-      "file_url": "https://youtu.be/F0J9Z5o3BfY?si=DRpLXN3vTo4k4Fqj",
-      "duration": 205,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Audio",
-      "duration_overridden": true
-    },
-    "db66b65e-aa3f-4d6f-a769-d45273e4fdf1": {
-      "label": "\"Me llaman la primarosa\" -  Gerónimo Giménez y Manuel Nieto",
-      "is_offline": false,
-      "file_url": "https://youtu.be/1x9uvnJjjlA?si=VQNA1PXejP_vEe_X",
-      "duration": 384,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Audio",
       "duration_overridden": true
     }
   },
@@ -73,17 +43,14 @@
     }
   ],
   "citation": "",
-  "label": "Art Songs and Arias",
+  "label": "Daniel Catán",
   "av_file_order": [
     "55fee764-0622-474f-9db8-28cc73b7b14d",
     "c32f1bdd-4779-49fe-9305-930315b8b256",
-    "6c7f4f47-d018-4072-ae99-825a49f0a69c",
-    "426fd255-4603-4a90-b663-c655a70a6e54",
-    "cebbc5f6-c457-4dd0-88bc-adfb00018c6b",
-    "db66b65e-aa3f-4d6f-a769-d45273e4fdf1"
+    "426fd255-4603-4a90-b663-c655a70a6e54"
   ],
   "created_at": "2026-02-08T18:53:46.356Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-02-10T20:45:43.815Z",
+  "updated_at": "2026-02-10T21:19:04.132Z",
   "updated_by": "lexirosev16"
 }
