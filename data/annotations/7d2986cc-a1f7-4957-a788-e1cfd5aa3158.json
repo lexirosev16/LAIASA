@@ -1,5 +1,114 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Estrellita\" ",
+              "bold": true
+            },
+            {
+              "text": "- Manuel Ponce "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estrellita del lejano cielo, que miras mi dolor, que sabes mi sufrir, baja y di me si me quiere un poco porque yo no puedo sin su amor vivir. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estrellita del lejano cielo,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que miras mi dolor,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que sabes mi sufrir,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "baja y di me si me quiere un poco porque yo no puedo sin su amor vivir."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tú eres estrella,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mi faro de amor,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tú sabes que pronto he de morir."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Baja y di me si me quiere un poco porque yo no puedo sin su amor vivir."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Baja y di me si me quiere un poco porque yo no puedo sin su amor vivir."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "35e0ca22-f86e-46bf-92c4-e1a3b02ad34c"
+    }
+  ],
   "set": "Default",
   "event_id": "bf97a6c9-0c71-4e0d-aabb-9a620011131f",
   "source_id": "54af3700-5f10-4369-bf0c-b3c1398e0f8d"
