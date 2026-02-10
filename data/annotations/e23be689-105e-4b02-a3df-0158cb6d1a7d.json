@@ -1,5 +1,183 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "\"She\" ",
+          "bold": true
+        },
+        {
+          "text": "- Narciso Figueroa  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When the sound of her footsteps rises in the distance, my overjoyed heart leaps,  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I feel life pulsing through my nerves and my voice dying in my throat.  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "She draws near, enchanting, and my soul rushes to my eyes  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "so I might see her better,  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "and my lips tremble convulsively,  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "unable to pronounce a single word.  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Then the uncertain dam breaks,  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "the torrent overflows, love speaks  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "in that mysterious, solemn language  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "our tongues are not enough to express,  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "and in her the universe gathers,  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "and when I clasp her idolized hand,  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I see God gleam in her pupils  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "and fall to my knees at her feet."
+        }
+      ],
+      "tags": [],
+      "uuid": "5952a59e-7f2a-4ab4-b6c4-2df6c25bbb8a"
+    }
+  ],
   "set": "Default",
   "event_id": "37df39fd-23ca-42cc-82b7-1adf31f8528e",
   "source_id": "058fc264-cfba-4dec-9af9-13dac4a72235"
