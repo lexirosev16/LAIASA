@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-02-10T20:47:29.753Z",
+  "created_by": "lexirosev16",
+  "title": "Spain",
+  "slug": "spain",
+  "updated_at": "2026-02-10T20:47:29.753Z",
+  "updated_by": "lexirosev16",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "03bc8cc1-2758-481c-8b22-5e007f15c10e"
+  }
+}
